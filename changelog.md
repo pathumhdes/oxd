@@ -1,3 +1,5 @@
+2025-03-27 - 50fddc35edde8e2425b6849739acbc6ffcdad708 - components/src/core/components/Input/DateInput.vue - Enabling the calender widget to include a slot instead of date input links (Today/Clear/Close)
+
 2025-03-20 - ff114ce595dc09f5a37518bf2c2f5de3ddfdd308 - components/src/core/components/Icon/icons.ts - Added oxd-ai-content icon
 
 2025-03-20 - ff114ce595dc09f5a37518bf2c2f5de3ddfdd308 - components/src/core/components/ListTable/ListTable.vue - Refactor ListTable selection header logic with enable adding both Icon and text for list header in same time
